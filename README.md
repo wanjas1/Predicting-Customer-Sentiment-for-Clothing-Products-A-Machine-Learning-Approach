@@ -3,6 +3,7 @@
 ![image](https://github.com/user-attachments/assets/912e24a8-2b17-4d2b-b0c7-f5a6faea7071)
 
 Problem Statement:
+
 Customer sentiment plays a crucial role in the retail industry, influencing sales, brand reputation, and customer loyalty. Macy’s, a leading department store, seeks to enhance its understanding of customer opinions by predicting the sentiment of clothing product reviews. With a dataset of 5,000 customer reviews, the goal is to develop and compare multiple classification models to accurately predict sentiment, with a special focus on identifying negative reviews.
 
 By leveraging machine learning techniques, Macy’s aims to proactively detect dissatisfaction, improve product offerings, and enhance customer experiences. Accurately identifying negative sentiment can help the company take timely action—whether through quality improvements, customer service interventions, or strategic marketing adjustments—ensuring continued customer trust and satisfaction.
