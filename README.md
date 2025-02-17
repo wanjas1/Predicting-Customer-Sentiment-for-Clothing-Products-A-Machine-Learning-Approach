@@ -62,6 +62,8 @@ This approach ensures that the models account for class distribution, improving 
 
 Analysis and Findings
 
+![image](https://github.com/user-attachments/assets/9cb2dc0d-c4a7-4909-b9f3-1a00bd7de486)
+
 Macy's should use the Logistic Regression model to predict customer sentiment.
 
 After incorporating balanced class weights, the Logistic Regression model metrics remained relatively consistent with those observed before. This demonstrates the model's robustness and stability in handling class imbalances.
