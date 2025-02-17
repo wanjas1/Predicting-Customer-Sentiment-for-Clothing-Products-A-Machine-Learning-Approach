@@ -23,14 +23,6 @@ Evaluate model performance by obtaining and printing key performance metrics.
 
 This structured approach ensures a robust comparison of different classification techniques, helping to identify the most effective model for sentiment prediction.
 
-Analysis and Findings
-
-Macy's should use the Logistic Regression model to predict customer sentiment.
-
-After incorporating balanced class weights, the Logistic Regression model metrics remained relatively consistent with those observed before. This demonstrates the model's robustness and stability in handling class imbalances.
-
-There is a notable improvement in the Recall for the negative class (0), which increased significantly from 0.42 to 0.82, indicating that the model is now much better at identifying negative reviews. This aligns directly with Macy's business goal of predicting negative customer sentiments.
-
 Goodness of fit and performance for the most suitable classification model Macy's should use to predict customer sentiment
 
 Given Macy’s focus on actionable insights and understanding the drivers of negative customer sentiment, Logistic Regression is the preferred model.
@@ -67,3 +59,11 @@ The pipeline will:
 -Evaluate and print performance metrics to assess the impact of class balancing on model performance.
 
 This approach ensures that the models account for class distribution, improving their ability to detect underrepresented sentiment categories.
+
+Analysis and Findings
+
+Macy's should use the Logistic Regression model to predict customer sentiment.
+
+After incorporating balanced class weights, the Logistic Regression model metrics remained relatively consistent with those observed before. This demonstrates the model's robustness and stability in handling class imbalances.
+
+There is a notable improvement in the Recall for the negative class (0), which increased significantly from 0.42 to 0.82, indicating that the model is now much better at identifying negative reviews. This aligns directly with Macy's business goal of predicting negative customer sentiments.
