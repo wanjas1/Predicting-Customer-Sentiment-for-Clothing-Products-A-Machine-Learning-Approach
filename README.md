@@ -2,6 +2,9 @@
 
 ![clothes](https://github.com/user-attachments/assets/0f90ff77-692b-4c04-a912-8c5f56351268)
 
+Photo by <a href="https://unsplash.com/@henmankk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Keagan Henman</a> on <a href="https://unsplash.com/photos/photo-of-blue-crew-neck-tops-xPJYL0l5Ii8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
 Problem Statement:
 
 Customer sentiment plays a crucial role in the retail industry, influencing sales, brand reputation, and customer loyalty. Macy’s, a leading department store, seeks to enhance its understanding of customer opinions by predicting the sentiment of clothing product reviews. With a dataset of 5,000 customer reviews, the goal is to develop and compare multiple classification models to accurately predict sentiment, with a special focus on identifying negative reviews.
